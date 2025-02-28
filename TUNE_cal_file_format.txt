@@ -1,5 +1,9 @@
 # TUNE Calibration file format - v. 5.13 and later
 #
+# File naming convention:
+# <cal_SNnnn_preamp-name-gain-dB_recorder-name_year>.txt
+# Example: cal_SN4821111_VP2000-30dB_F6_2025.txt
+#
 # ﻿Calibration data is imported into TUNE as a text file
 # with [frequency,sensitivity] pairs, one for each row.
 # Minimum 3 frequency points must be listed, at least
