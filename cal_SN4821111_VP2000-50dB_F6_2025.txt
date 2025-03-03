@@ -1,6 +1,6 @@
 # Calibration: INM ARTOV, comparison method, diffuse field
-# Hydrophone: TC4040-4 s/n 4821111
-# Preamplifier: VP2000 (EC6081G) s/n 2147508 
+# Hydrophone: Reson TC4040-4 s/n 4821111
+# Preamplifier: Reson VP2000 (EC6081G) s/n 2147508 
 #   Highpass = 10 Hz, Lowpass = 10 kHz, Gain = 50 dB (derived from 30 dB measured data)
 # Recorder: Zoom F6 s/n C46021273 
 #   Input 1, sensitivity = max, rate = 48 kHz, 16 bits
