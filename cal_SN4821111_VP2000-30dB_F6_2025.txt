@@ -1,0 +1,40 @@
+# Calibration: INM ARTOV, comparison method, diffuse field
+# Hydrophone: TC4040-4 s/n 4821111
+# Preamplifier: VP2000 (EC6081G) s/n 2147508 
+#   Highpass = 10 Hz, Lowpass = 10 kHz, Gain = 30 dB
+# Recorder: Zoom F6 s/n C46021273 
+#   Input 1, sensitivity = max, rate = 48 kHz, 16 bits
+# Date: 24-feb-2025
+# NOTE: Measured data up to 1 kHz, extended from 5 kHz using hydrophone manufacturer's data
+# F/Hz	SF/Pa
+125	4875.7
+250	5200.2
+500	5134.2
+1000	4573.4
+5000	4573.4
+6000	4734.1
+7000	4844.4
+8000	5562.1
+9000	4844.4
+10000	4844.4
+11000	4844.4
+12000	4844.4
+13000	5131.4
+14000	5435.5
+15000	5562.1
+16000	5435.5
+17000	5435.5
+18000	5311.8
+19000	4957.2
+20000	4957.2
+21000	5014.6
+22000	5131.4
+23000	5131.4
+24000	5072.7
+25000	5014.6
+26000	4844.4
+27000	4844.4
+28000	4844.4
+29000	4844.4
+30000	4788.9
+
