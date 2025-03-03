@@ -1,0 +1,41 @@
+# Calibration: INM ARTOV, comparison method, diffuse field
+# Hydrophone: Reson TC4040-4 s/n 4821112
+# Preamplifier: Reson VP2000 (EC6081G) s/n 2147507 
+#   Highpass = 10 Hz, Lowpass = 25 kHz, Gain = 30 dB (derived from 40 dB measured data)
+# Recorder: Zoom F6 s/n C46021303 
+#   Input 1, sensitivity = max, rate = 48 kHz, 16 bits
+# Date: 24-feb-2025
+# NOTE: Measured data up to 1 kHz, extended from 5 kHz using hydrophone manufacturer's data
+# F/Hz	SF/Pa
+63	3957.3
+125	4245.0
+250	4245.0
+500	4846.2
+1000	4628.6
+5000	4628.6
+6000	4471.5
+7000	4682.2
+8000	4791.3
+9000	4682.2
+10000	4682.2
+11000	4736.4
+12000	4902.9
+13000	5253.5
+14000	5564.8
+15000	5694.5
+16000	5564.8
+17000	4902.9
+18000	4846.8
+19000	4682.2
+20000	4682.2
+21000	4736.4
+22000	4902.9
+23000	4902.9
+24000	4791.3
+25000	4682.2
+26000	4575.6
+27000	4575.6
+28000	4575.6
+29000	4628.6
+30000	4471.5
+
